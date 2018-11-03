@@ -17,6 +17,9 @@ public class API {
     @Getter
     private Object bungeePlugin;
 
+    public API() {
+    }
+
     /**
      * Method used initializing a bukkit plugin using API.
      * @param bukkitPlugin

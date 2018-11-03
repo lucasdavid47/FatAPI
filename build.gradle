@@ -22,4 +22,5 @@ dependencies {
     compileOnly 'org.projectlombok:lombok:1.16.20'
     compileOnly 'org.spigotmc:spigot-api:1.13.1-R0.1-SNAPSHOT'
     compileOnly 'net.md-5:bungeecord-api:1.13-SNAPSHOT'
+    compile 'redis.clients:jedis:2.9.0'
 }
